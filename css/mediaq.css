@@ -1,0 +1,9 @@
+@media only screen and (max-width: 375px) {
+  .bal {
+    width: 70%;
+    height: 30rem;
+    position: relative;
+    right: 150px;
+  }
+}
+/*# sourceMappingURL=mediaq.css.map */
